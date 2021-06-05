@@ -5,7 +5,7 @@
   <br>
   👤 Working with JetBrains, VSC, Unity3D and Unreal Engine 👤
   <br>
-  💕 C#, C++, .NET, Gaming, Software Development, Web Development 💕
+  💕 C#, C++/CLI, .NET, Gaming, Software Development, Web Development 💕
 </p>
 
 <p align="left">
