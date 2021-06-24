@@ -3,9 +3,9 @@
 <p align="center">
   👤 Frontend and Backend Developer from Germany. 👤
   <br>
-  👤 Working with JetBrains, VSC, Unity3D and Unreal Engine 👤
+  👤 Working with JetBrains, VS/VSC, Unity3D and Unreal Engine 👤
   <br>
-  💕 C#, C++, .NET, Gaming, Software Development, Web Development 💕
+  💕 C#, C++, .NET, Gaming, Software Engineer, Reverse Engineering and Web Development 💕
 </p>
 
 <p align="left">
@@ -15,5 +15,7 @@
   <br>
   <a href="https://discord.gg/4pnAXKC">🔗 Discord for support, news and updates</a>
   <br>
-  <a href="https://www.lcpdfr.com/profile/375605-sebi3/">🔗 LSPDFR Testing Team</a>
+  <a href="https://www.lcpdfr.com/profile/375605-sebi3/">🔗 LSPDFR</a>
+    <br>
+  <a href="https://www.gta5-mods.com/users/sEbi3">🔗 GTA5-Mods</a>
 </p>
