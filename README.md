@@ -3,9 +3,9 @@
 <p align="center">
   👤 Software Engineer from Germany with huge interests in reverse engineering. 👤
   <br>
-  👤 Working with JetBrains, VS/VSC, Unity3D and Unreal Engine 👤
-  <br>
   💕 C#, C++, .NET, Gaming, Software Engineer, Reverse Engineering and Web Development 💕
+  <br>
+  👤 Working with JetBrains, VS/VSC, Unity3D and Unreal Engine 👤
 </p>
 
 <p align="left">
