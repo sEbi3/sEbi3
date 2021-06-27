@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  👤 Frontend and Backend Developer from Germany. 👤
+  👤 Software Engineer from Germany with huge interests in reverse engineering. 👤
   <br>
   👤 Working with JetBrains, VS/VSC, Unity3D and Unreal Engine 👤
   <br>
