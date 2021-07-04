@@ -6,26 +6,7 @@
   from Germany known for modifications of GTA V and LSPDFR. I'm working on a lot of different projects.
   <br>
   I've always enjoyed creating and learning new things in the technology.
-</p>
-
-```js
-export default () => ({
-  technologies: {
-    "Programming languages": [ "C#", "C", "C++", "Python"],
-    "Web development": [ "HTML", "CSS", "JS" ],
-    "Databases": [ "MySQl" ],
-    "DevOps Tools": [ "Git" ],
-    "Game Engines": [ "Unity3D", "Unreal Engine" ],
-    "Operating systems": [ "Kali Linux", "Windows" ],
-    "Code Editors": [ "Rider", "VS/VSCode", "Pycharm", "CLion", "Atom" ]
-  },
-   Interests: [
-    "Technology", "Coding", "Reverse Engineering",
-    "Data Science", "Gaming"
-  ]
-});
-```
-
+</p><br>
 
 <p align="left">
   <a href="https://sebi3.github.io/">🌍 My Website</a>
@@ -40,4 +21,3 @@ export default () => ({
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sEbi3&show_icons=true&theme=tokyonight" alt="sEbi3" /> </p>  <br>
-
