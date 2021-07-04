@@ -3,7 +3,9 @@
 <p align="center">
  I'm sEbi3, an active software engineer, system administrator and web developer
   <br>
-  from Germany known for modifications of GTA V and LSPDFR. I'm working on a lot of different projects.
+  from Germany with huge interests in reverse engineering, ethical hacking and data science.
+  <br>
+  I'm known for modifications of GTA V and LSPDFR. I'm working on a lot of different projects.
   <br>
   I've always enjoyed creating and learning new things in the technology.
 </p><br>
