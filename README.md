@@ -11,7 +11,7 @@
 </p><br>
 
 <p align="left">
-  <a href="https://sebi3.github.io/">🌍 My Website</a>
+  <a href="https://sebi3.de/">🌍 My Website</a>
   <br>
   <a href="https://www.patreon.com/sEbi3">💰 Become a Patreon</a>
   <br>
